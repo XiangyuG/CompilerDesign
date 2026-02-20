@@ -1,2 +1,5 @@
-.o
-.pyc
+*.o
+*.pyc
+*.asm
+/build/
+test
